@@ -130,3 +130,5 @@ dmypy.json
 
 # original
 TaskList.md
+credentials.json
+token.json
